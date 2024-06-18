@@ -1,0 +1,22 @@
+{
+  "name": "angular-caret",
+  "version": "0.1.0",
+  "authors": [
+    "Eirik Brandtzæg <eirikb@eirikb.no>"
+  ],
+  "main": "caret.js",
+  "description": "Angular directive to set and get caret position on input and textarea element.",
+  "keywords": [
+    "angular",
+    "caret",
+    "textarea"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
